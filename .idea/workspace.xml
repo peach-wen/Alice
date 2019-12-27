@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5900f765-c25d-4326-8fad-f62db18408e6" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-795">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-54" />
+    <option name="y" value="237" />
+    <option name="width" value="1890" />
+    <option name="height" value="663" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pdfminer-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdfminer-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdfminer-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdfminer-master" type="462c0819:PsiDirectoryNode" />
+              <item name="pdfminer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5900f765-c25d-4326-8fad-f62db18408e6" name="默认的" comment="" />
+      <created>1576984904076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576984904076</updated>
+      <workItem from="1576984905338" duration="107000" />
+      <workItem from="1576985324224" duration="647000" />
+      <workItem from="1577001612147" duration="2043000" />
+      <workItem from="1577168816374" duration="86000" />
+      <workItem from="1577169063523" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3585000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/陶雯/Desktop/pdfminer-master/samples">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/samples</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="464.0" y="243.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/陶雯/Desktop/pdfminer-master">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="32.0" y="0.0">$PROJECT_DIR$/docs/index.html</node>
+            <node x="263.0" y="244.0">$PROJECT_DIR$/docs/layout.png</node>
+            <node x="66.0" y="305.0">$PROJECT_DIR$/docs/objrel.png</node>
+            <node x="95.0" y="174.0">$PROJECT_DIR$/docs/programming.html</node>
+            <node x="0.0" y="97.0">$PROJECT_DIR$/docs/style.css</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/docs/programming.html" target="$PROJECT_DIR$/docs/layout.png">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/docs/programming.html" target="$PROJECT_DIR$/docs/style.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/docs/programming.html" target="$PROJECT_DIR$/docs/objrel.png">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/docs/index.html" target="$PROJECT_DIR$/docs/style.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-25.0" y="165.0" />
+          <SelectedNodes>
+            <node>$PROJECT_DIR$/docs/style.css</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/陶雯/Desktop/pdfminer-master/pdfminer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/陶雯/Desktop/pdfminer-master/pdfminer</OriginalElement>
+          <nodes>
+            <node x="803.0" y="1787.0">pdfminer.pdffont.TrueTypeFont</node>
+            <node x="1297.5" y="1073.0">pdfminer.psparser.PSStackParser</node>
+            <node x="1730.0" y="1630.0">pdfminer.rijndael.RijndaelDecryptor</node>
+            <node x="1856.75" y="643.0">pdfminer.psparser.PSException</node>
+            <node x="2729.0" y="1392.0">pdfminer.ccitt.BitParser</node>
+            <node x="0.0" y="1787.0">pdfminer.pdfcolor.PDFColorSpace</node>
+            <node x="0.0" y="1554.0">pdfminer.cmapdb.FileUnicodeMap</node>
+            <node x="450.75" y="324.0">pdfminer.layout.LTChar</node>
+            <node x="2943.0" y="1787.0">pdfminer.arcfour.Arcfour</node>
+            <node x="498.625" y="1554.0">pdfminer.cmapdb.FileCMap</node>
+            <node x="1956.4999999999998" y="1235.0">pdfminer.pdffont.PDFTrueTypeFont</node>
+            <node x="2307.0" y="1473.0">pdfminer.pdfdocument.PDFStandardSecurityHandlerV4</node>
+            <node x="1567.25" y="835.0">pdfminer.pdfdocument.PDFDestinationNotFound</node>
+            <node x="514.0" y="992.0">pdfminer.pdfdevice.PDFDevice</node>
+            <node x="1418.25" y="724.0">pdfminer.psparser.PSEOF</node>
+            <node x="2307.0" y="1554.0">pdfminer.pdfdocument.PDFStandardSecurityHandlerV5</node>
+            <node x="0.0" y="835.0">pdfminer.pdfdocument.PDFNoOutlines</node>
+            <node x="916.5" y="1154.0">pdfminer.pdfparser.PDFParser</node>
+            <node x="266.0" y="486.0">pdfminer.layout.LTTextLineVertical</node>
+            <node x="1856.25" y="724.0">pdfminer.psparser.PSTypeError</node>
+            <node x="1163.5" y="405.0">pdfminer.layout.LTTextGroup</node>
+            <node x="1615.25" y="724.0">pdfminer.pdftypes.PDFException</node>
+            <node x="2146.25" y="562.0">Exception</node>
+            <node x="1300.0" y="992.0">pdfminer.psparser.PSBaseParser</node>
+            <node x="258.0" y="1711.0">pdfminer.ccitt.TestCCITTG4Parser</node>
+            <node x="1020.25" y="835.0">pdfminer.pdfdocument.PDFEncryptionError</node>
+            <node x="578.9375" y="0.0">pdfminer.layout.LTItem</node>
+            <node x="1965.4999999999998" y="1154.0">pdfminer.pdffont.PDFType1Font</node>
+            <node x="272.0" y="1787.0">pdfminer.pdfinterp.PDFTextState</node>
+            <node x="494.83333333333337" y="1235.0">pdfminer.converter.PDFPageAggregator</node>
+            <node x="2570.0" y="1630.0">pdfminer.cmapdb.CMapConverter</node>
+            <node x="2717.0" y="1787.0">pdfminer.pdffont.CFFFont</node>
+            <node x="1107.75" y="324.0">pdfminer.layout.LTFigure</node>
+            <node x="1061.0" y="1787.0">pdfminer.layout.IndexAssigner</node>
+            <node x="500.0" y="1316.0">pdfminer.converter.TextConverter</node>
+            <node x="0.0" y="1863.0">pdfminer.utils.Plane</node>
+            <node x="2261.0" y="1787.0">pdfminer.lzw.LZWDecoder</node>
+            <node x="842.0" y="1630.0">pdfminer.pdfinterp.PDFPageInterpreter</node>
+            <node x="1057.5" y="1473.0">pdfminer.pdftypes.PDFObject</node>
+            <node x="711.625" y="1554.0">pdfminer.cmapdb.PyCMap</node>
+            <node x="379.0" y="1073.0">pdfminer.pdfdevice.PDFTextDevice</node>
+            <node x="688.75" y="243.0">pdfminer.layout.LTExpandableContainer</node>
+            <node x="2438.25" y="835.0">pdfminer.pdftypes.PDFTypeError</node>
+            <node x="1739.5" y="1554.0">pdfminer.pdfdocument.PDFXRefFallback</node>
+            <node x="1433.5" y="1154.0">pdfminer.cmapdb.CMapParser</node>
+            <node x="1879.75" y="1392.0">pdfminer.pdfdocument.PDFBaseXRef</node>
+            <node x="2320.25" y="724.0">pdfminer.psparser.PSSyntaxError</node>
+            <node x="1661.5" y="1154.0">pdfminer.pdfinterp.PDFContentParser</node>
+            <node x="1904.25" y="835.0">pdfminer.pdfparser.PDFSyntaxError</node>
+            <node x="1556.0" y="1787.0">pdfminer.pdfpage.PDFPage</node>
+            <node x="2082.5" y="1073.0">pdfminer.pdffont.PDFSimpleFont</node>
+            <node x="655.5" y="324.0">pdfminer.layout.LTTextContainer</node>
+            <node x="2160.25" y="835.0">pdfminer.pdfinterp.PDFInterpreterError</node>
+            <node x="1273.0" y="486.0">pdfminer.layout.LTTextGroupLRTB</node>
+            <node x="261.75" y="324.0">pdfminer.layout.LTAnno</node>
+            <node x="0.0" y="1711.0">pdfminer.psparser.TestPSBaseParser</node>
+            <node x="1418.25" y="243.0">pdfminer.layout.LTRect</node>
+            <node x="516.0" y="486.0">pdfminer.layout.LTTextBoxHorizontal</node>
+            <node x="159.0" y="405.0">pdfminer.layout.LTTextLine</node>
+            <node x="1146.0" y="1630.0">pdfminer.pdfdocument.PDFDocument</node>
+            <node x="539.0" y="1787.0">pdfminer.pdffont.FontMetricsDB</node>
+            <node x="1286.875" y="1392.0">pdfminer.psparser.PSObject</node>
+            <node x="135.71875" y="1473.0">pdfminer.cmapdb.UnicodeMap</node>
+            <node x="246.00000000000003" y="1316.0">pdfminer.converter.HTMLConverter</node>
+            <node x="896.0" y="1235.0">pdfminer.pdfparser.PDFStreamParser</node>
+            <node x="1026.0" y="486.0">pdfminer.layout.LTTextGroupTBRL</node>
+            <node x="1793.0" y="1787.0">pdfminer.image.BMPWriter</node>
+            <node x="0.0" y="486.0">pdfminer.layout.LTTextLineHorizontal</node>
+            <node x="673.5" y="405.0">pdfminer.layout.LTTextBox</node>
+            <node x="614.84375" y="1473.0">pdfminer.cmapdb.CMap</node>
+            <node x="2218.5" y="992.0">pdfminer.pdffont.PDFFont</node>
+            <node x="631.0" y="1073.0">pdfminer.pdfdevice.TagExtractor</node>
+            <node x="1889.25" y="916.0">pdfminer.pdfdocument.PDFNoValidXRef</node>
+            <node x="2704.0" y="1554.0">pdfminer.ccitt.CCITTFaxDecoder</node>
+            <node x="1505.5" y="1473.0">pdfminer.psparser.PSLiteral</node>
+            <node x="2314.5" y="1392.0">pdfminer.pdfdocument.PDFStandardSecurityHandler</node>
+            <node x="868.5" y="162.0">pdfminer.layout.LTContainer</node>
+            <node x="1168.625" y="1554.0">pdfminer.pdftypes.PDFStream</node>
+            <node x="760.0" y="81.0">pdfminer.layout.LTComponent</node>
+            <node x="250.83333333333334" y="1235.0">pdfminer.converter.PDFConverter</node>
+            <node x="2489.0" y="1787.0">pdfminer.layout.LAParams</node>
+            <node x="2947.25" y="835.0">pdfminer.pdftypes.PDFNotImplementedError</node>
+            <node x="528.5" y="916.0">pdfminer.pdffont.PDFUnicodeNotDefined</node>
+            <node x="367.71875" y="1473.0">pdfminer.cmapdb.IdentityCMap</node>
+            <node x="820.5" y="916.0">pdfminer.pdfdocument.PDFTextExtractionNotAllowed</node>
+            <node x="0.0" y="1316.0">pdfminer.converter.XMLConverter</node>
+            <node x="779.0" y="486.0">pdfminer.layout.LTTextBoxVertical</node>
+            <node x="1313.0" y="1787.0">pdfminer.image.ImageWriter</node>
+            <node x="406.25" y="243.0">pdfminer.layout.LTText</node>
+            <node x="1322.75" y="162.0">pdfminer.layout.LTCurve</node>
+            <node x="2844.0" y="1630.0">pdfminer.psparser.PSSymbolTable</node>
+            <node x="2324.5" y="1073.0">pdfminer.pdffont.PDFCIDFont</node>
+            <node x="673.5" y="162.0">pdfminer.layout.LTImage</node>
+            <node x="2085.75" y="643.0">pdfminer.lzw.CorruptDataError</node>
+            <node x="2679.25" y="835.0">pdfminer.pdfinterp.PDFResourceError</node>
+            <node x="1443.0" y="1630.0">pdfminer.pdfinterp.PDFGraphicState</node>
+            <node x="367.0" y="1154.0">pdfminer.converter.PDFLayoutAnalyzer</node>
+            <node x="2002.0" y="1473.0">pdfminer.pdfdocument.PDFXRefStream</node>
+            <node x="376.0" y="1392.0">pdfminer.cmapdb.CMapBase</node>
+            <node x="983.25" y="243.0">pdfminer.layout.LTLayoutContainer</node>
+            <node x="2086.25" y="724.0">pdfminer.psparser.PSValueError</node>
+            <node x="2314.75" y="643.0">pdfminer.cmapdb.CMapError</node>
+            <node x="1236.25" y="243.0">pdfminer.layout.LTLine</node>
+            <node x="1763.0" y="1473.0">pdfminer.pdfdocument.PDFXRef</node>
+            <node x="2013.0" y="1630.0">pdfminer.rijndael.RijndaelEncryptor</node>
+            <node x="180.0" y="1630.0">unittest.TestCase</node>
+            <node x="2203.5" y="1154.0">pdfminer.pdffont.PDFType3Font</node>
+            <node x="1141.5" y="1154.0">pdfminer.pdffont.Type1FontHeaderParser</node>
+            <node x="2294.0" y="1630.0">pdfminer.encodingdb.EncodingDB</node>
+            <node x="525.0" y="1630.0">pdfminer.pdfinterp.PDFResourceManager</node>
+            <node x="1322.25" y="835.0">pdfminer.pdftypes.PDFValueError</node>
+            <node x="919.75" y="324.0">pdfminer.layout.LTPage</node>
+            <node x="943.625" y="1554.0">pdfminer.pdftypes.PDFObjRef</node>
+            <node x="277.0" y="835.0">pdfminer.pdftypes.PDFObjectNotFound</node>
+            <node x="1182.5" y="916.0">pdfminer.pdfdocument.PDFPasswordIncorrect</node>
+            <node x="1281.5" y="1473.0">pdfminer.psparser.PSKeyword</node>
+            <node x="559.0" y="835.0">pdfminer.pdffont.PDFFontError</node>
+            <node x="2712.5" y="1473.0">pdfminer.ccitt.CCITTG4Parser</node>
+            <node x="252.0" y="1554.0">pdfminer.cmapdb.PyUnicodeMap</node>
+            <node x="2027.0" y="1787.0">pdfminer.cmapdb.CMapDB</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="pdfminer.lzw.CorruptDataError" target="Exception">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.TestPSBaseParser" target="unittest.TestCase">
+              <point x="0.0" y="-15.5" />
+              <point x="119.0" y="1686.0" />
+              <point x="212.0" y="1686.0" />
+              <point x="-32.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFStandardSecurityHandlerV5" target="pdfminer.pdfdocument.PDFStandardSecurityHandlerV4">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.FileCMap" target="pdfminer.cmapdb.CMap">
+              <point x="0.0" y="-15.5" />
+              <point x="595.125" y="1529.0" />
+              <point x="658.09375" y="1529.0" />
+              <point x="-43.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFObject" target="pdfminer.psparser.PSObject">
+              <point x="0.0" y="-15.5" />
+              <point x="1159.5" y="1448.0" />
+              <point x="1318.875" y="1448.0" />
+              <point x="-64.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSKeyword" target="pdfminer.psparser.PSObject">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.ccitt.CCITTFaxDecoder" target="pdfminer.ccitt.CCITTG4Parser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTRect" target="pdfminer.layout.LTCurve">
+              <point x="0.0" y="-15.5" />
+              <point x="1500.25" y="218.0" />
+              <point x="1451.75" y="218.0" />
+              <point x="43.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTContainer" target="pdfminer.layout.LTComponent">
+              <point x="0.0" y="-15.5" />
+              <point x="966.0" y="142.0" />
+              <point x="889.375" y="142.0" />
+              <point x="25.875" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfinterp.PDFContentParser" target="pdfminer.psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="1786.5" y="1124.0" />
+              <point x="1490.0" y="1124.0" />
+              <point x="82.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFEncryptionError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="1161.25" y="805.0" />
+              <point x="1685.5681818181818" y="805.0" />
+              <point x="-40.181818181818244" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSLiteral" target="pdfminer.psparser.PSObject">
+              <point x="0.0" y="-15.5" />
+              <point x="1600.0" y="1448.0" />
+              <point x="1446.875" y="1448.0" />
+              <point x="64.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFType1Font" target="pdfminer.pdffont.PDFSimpleFont">
+              <point x="0.0" y="-15.5" />
+              <point x="2074.5" y="1129.0" />
+              <point x="2138.0" y="1129.0" />
+              <point x="-55.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTImage" target="pdfminer.layout.LTComponent">
+              <point x="0.0" y="-15.5" />
+              <point x="761.0" y="142.0" />
+              <point x="837.625" y="142.0" />
+              <point x="-25.875" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfinterp.PDFResourceError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="2803.25" y="785.0" />
+              <point x="1806.1136363636365" y="785.0" />
+              <point x="80.36363636363649" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextContainer" target="pdfminer.layout.LTText">
+              <point x="-54.75" y="-15.5" />
+              <point x="710.25" y="294.0" />
+              <point x="542.0833333333334" y="294.0" />
+              <point x="54.33333333333337" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFStream" target="pdfminer.pdftypes.PDFObject">
+              <point x="0.0" y="-15.5" />
+              <point x="1271.625" y="1529.0" />
+              <point x="1210.5" y="1529.0" />
+              <point x="51.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfparser.PDFParser" target="pdfminer.psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="1019.0" y="1124.0" />
+              <point x="1325.0" y="1124.0" />
+              <point x="-82.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.PyCMap" target="pdfminer.cmapdb.CMap">
+              <point x="0.0" y="-15.5" />
+              <point x="805.125" y="1529.0" />
+              <point x="744.59375" y="1529.0" />
+              <point x="43.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFFontError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="664.5" y="795.0" />
+              <point x="1665.4772727272727" y="795.0" />
+              <point x="-60.27272727272725" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFTypeError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="2548.75" y="795.0" />
+              <point x="1786.0227272727273" y="795.0" />
+              <point x="60.27272727272725" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfparser.PDFStreamParser" target="pdfminer.pdfparser.PDFParser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFTextExtractionNotAllowed" target="pdfminer.pdfdocument.PDFEncryptionError">
+              <point x="0.0" y="-15.5" />
+              <point x="991.5" y="891.0" />
+              <point x="1090.75" y="891.0" />
+              <point x="-70.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.CMap" target="pdfminer.cmapdb.CMapBase">
+              <point x="0.0" y="-15.5" />
+              <point x="701.34375" y="1448.0" />
+              <point x="541.8333333333333" y="1448.0" />
+              <point x="66.33333333333326" y="15.5" />
+            </edge>
+            <edge source="pdfminer.converter.TextConverter" target="pdfminer.converter.PDFConverter">
+              <point x="0.0" y="-15.5" />
+              <point x="612.0" y="1291.0" />
+              <point x="437.5" y="1291.0" />
+              <point x="74.66666666666669" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextBoxVertical" target="pdfminer.layout.LTTextBox">
+              <point x="0.0" y="-15.5" />
+              <point x="892.5" y="461.0" />
+              <point x="810.75" y="461.0" />
+              <point x="45.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFXRefFallback" target="pdfminer.pdfdocument.PDFXRef">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSValueError" target="pdfminer.psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="2193.25" y="704.0" />
+              <point x="2003.05" y="704.0" />
+              <point x="41.799999999999955" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFTrueTypeFont" target="pdfminer.pdffont.PDFType1Font">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.Type1FontHeaderParser" target="pdfminer.psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="1277.5" y="1134.0" />
+              <point x="1380.0" y="1134.0" />
+              <point x="-27.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTCurve" target="pdfminer.layout.LTComponent">
+              <point x="0.0" y="-15.5" />
+              <point x="1408.75" y="132.0" />
+              <point x="941.125" y="132.0" />
+              <point x="77.625" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFNotImplementedError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="3093.25" y="775.0" />
+              <point x="1826.2045454545455" y="775.0" />
+              <point x="100.4545454545455" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.FileUnicodeMap" target="pdfminer.cmapdb.UnicodeMap">
+              <point x="0.0" y="-15.5" />
+              <point x="116.0" y="1529.0" />
+              <point x="188.71875" y="1529.0" />
+              <point x="-53.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.converter.PDFLayoutAnalyzer" target="pdfminer.pdfdevice.PDFTextDevice">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTFigure" target="pdfminer.layout.LTLayoutContainer">
+              <point x="-1.1368683772161603E-13" y="-15.5" />
+              <point x="1195.75" y="304.0" />
+              <point x="1158.0" y="304.0" />
+              <point x="58.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextGroupLRTB" target="pdfminer.layout.LTTextGroup">
+              <point x="0.0" y="-15.5" />
+              <point x="1386.5" y="461.0" />
+              <point x="1312.75" y="461.0" />
+              <point x="49.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.UnicodeMap" target="pdfminer.cmapdb.CMapBase">
+              <point x="0.0" y="-15.5" />
+              <point x="241.71875" y="1448.0" />
+              <point x="409.16666666666663" y="1448.0" />
+              <point x="-66.33333333333337" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextBox" target="pdfminer.layout.LTTextContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfinterp.PDFInterpreterError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="2289.25" y="805.0" />
+              <point x="1765.9318181818182" y="805.0" />
+              <point x="40.181818181818244" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextLineVertical" target="pdfminer.layout.LTTextLine">
+              <point x="0.0" y="-15.5" />
+              <point x="381.0" y="461.0" />
+              <point x="298.5" y="461.0" />
+              <point x="46.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdevice.TagExtractor" target="pdfminer.pdfdevice.PDFDevice">
+              <point x="0.0" y="-15.5" />
+              <point x="741.0" y="1048.0" />
+              <point x="670.0" y="1048.0" />
+              <point x="52.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSException" target="Exception">
+              <point x="0.0" y="-15.5" />
+              <point x="1961.25" y="618.0" />
+              <point x="2160.9166666666665" y="618.0" />
+              <point x="-29.333333333333485" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.IdentityCMap" target="pdfminer.cmapdb.CMapBase">
+              <point x="0.0" y="-15.5" />
+              <point x="476.71875" y="1448.0" />
+              <point x="475.5" y="1448.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTPage" target="pdfminer.layout.LTLayoutContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="1003.75" y="304.0" />
+              <point x="1041.5" y="304.0" />
+              <point x="-58.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFObjectNotFound" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="408.0" y="785.0" />
+              <point x="1645.3863636363637" y="785.0" />
+              <point x="-80.36363636363626" y="15.5" />
+            </edge>
+            <edge source="pdfminer.converter.PDFConverter" target="pdfminer.converter.PDFLayoutAnalyzer">
+              <point x="0.0" y="-15.5" />
+              <point x="362.83333333333337" y="1210.0" />
+              <point x="431.0" y="1210.0" />
+              <point x="-64.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFType3Font" target="pdfminer.pdffont.PDFSimpleFont">
+              <point x="0.0" y="-15.5" />
+              <point x="2312.5" y="1129.0" />
+              <point x="2249.0" y="1129.0" />
+              <point x="55.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTLine" target="pdfminer.layout.LTCurve">
+              <point x="0.0" y="-15.5" />
+              <point x="1317.25" y="218.0" />
+              <point x="1365.75" y="218.0" />
+              <point x="-43.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdevice.PDFTextDevice" target="pdfminer.pdfdevice.PDFDevice">
+              <point x="0.0" y="-15.5" />
+              <point x="495.0" y="1048.0" />
+              <point x="566.0" y="1048.0" />
+              <point x="-52.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextLineHorizontal" target="pdfminer.layout.LTTextLine">
+              <point x="0.0" y="-15.5" />
+              <point x="123.0" y="461.0" />
+              <point x="205.5" y="461.0" />
+              <point x="-46.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.PyUnicodeMap" target="pdfminer.cmapdb.UnicodeMap">
+              <point x="0.0" y="-15.5" />
+              <point x="365.0" y="1529.0" />
+              <point x="294.71875" y="1529.0" />
+              <point x="53.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFNoOutlines" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="128.5" y="775.0" />
+              <point x="1625.2954545454545" y="775.0" />
+              <point x="-100.4545454545455" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFUnicodeNotDefined" target="pdfminer.pdffont.PDFFontError">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTExpandableContainer" target="pdfminer.layout.LTContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="819.75" y="218.0" />
+              <point x="917.25" y="218.0" />
+              <point x="-48.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.converter.XMLConverter" target="pdfminer.converter.PDFConverter">
+              <point x="0.0" y="-15.5" />
+              <point x="113.0" y="1291.0" />
+              <point x="288.16666666666663" y="1291.0" />
+              <point x="-74.66666666666669" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextContainer" target="pdfminer.layout.LTExpandableContainer">
+              <point x="54.75" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSTypeError" target="pdfminer.psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSEOF" target="pdfminer.psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="1506.75" y="694.0" />
+              <point x="1877.65" y="694.0" />
+              <point x="-83.59999999999991" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.CMapParser" target="pdfminer.psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="1537.5" y="1134.0" />
+              <point x="1435.0" y="1134.0" />
+              <point x="27.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFDestinationNotFound" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFCIDFont" target="pdfminer.pdffont.PDFFont">
+              <point x="0.0" y="-15.5" />
+              <point x="2426.5" y="1048.0" />
+              <point x="2355.75" y="1048.0" />
+              <point x="45.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFXRef" target="pdfminer.pdfdocument.PDFBaseXRef">
+              <point x="0.0" y="-15.5" />
+              <point x="1872.5" y="1448.0" />
+              <point x="1941.0" y="1448.0" />
+              <point x="-61.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTChar" target="pdfminer.layout.LTText">
+              <point x="-41.5" y="-15.5" />
+              <point x="492.25" y="304.0" />
+              <point x="487.75" y="304.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSSyntaxError" target="pdfminer.psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="2430.25" y="694.0" />
+              <point x="2044.85" y="694.0" />
+              <point x="83.59999999999991" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTAnno" target="pdfminer.layout.LTText">
+              <point x="42.25" y="-15.5" />
+              <point x="388.5" y="304.0" />
+              <point x="433.41666666666663" y="304.0" />
+              <point x="-54.33333333333337" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTChar" target="pdfminer.layout.LTComponent">
+              <point x="41.5" y="-15.5" />
+              <point x="575.25" y="304.0" />
+              <point x="579.75" y="304.0" />
+              <point x="579.75" y="132.0" />
+              <point x="785.875" y="132.0" />
+              <point x="-77.625" y="15.5" />
+            </edge>
+            <edge source="pdfminer.converter.PDFPageAggregator" target="pdfminer.converter.PDFLayoutAnalyzer">
+              <point x="0.0" y="-15.5" />
+              <point x="626.8333333333334" y="1210.0" />
+              <point x="559.0" y="1210.0" />
+              <point x="64.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.ccitt.TestCCITTG4Parser" target="unittest.TestCase">
+              <point x="0.0" y="-15.5" />
+              <point x="369.0" y="1686.0" />
+              <point x="276.0" y="1686.0" />
+              <point x="32.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFPasswordIncorrect" target="pdfminer.pdfdocument.PDFEncryptionError">
+              <point x="0.0" y="-15.5" />
+              <point x="1331.0" y="891.0" />
+              <point x="1231.75" y="891.0" />
+              <point x="70.5" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextGroup" target="pdfminer.layout.LTTextContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="1263.0" y="380.0" />
+              <point x="838.0" y="380.0" />
+              <point x="73.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.psparser.PSStackParser" target="pdfminer.psparser.PSBaseParser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFNoValidXRef" target="pdfminer.pdfparser.PDFSyntaxError">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFStandardSecurityHandlerV4" target="pdfminer.pdfdocument.PDFStandardSecurityHandler">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextLine" target="pdfminer.layout.LTTextContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="252.0" y="380.0" />
+              <point x="692.0" y="380.0" />
+              <point x="-73.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTLayoutContainer" target="pdfminer.layout.LTContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="1099.75" y="218.0" />
+              <point x="1014.75" y="218.0" />
+              <point x="48.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFValueError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="1434.75" y="815.0" />
+              <point x="1705.659090909091" y="815.0" />
+              <point x="-20.09090909090901" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextBoxHorizontal" target="pdfminer.layout.LTTextBox">
+              <point x="0.0" y="-15.5" />
+              <point x="637.5" y="461.0" />
+              <point x="719.25" y="461.0" />
+              <point x="-45.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.converter.HTMLConverter" target="pdfminer.converter.PDFConverter">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTComponent" target="pdfminer.layout.LTItem">
+              <point x="0.0" y="-15.5" />
+              <point x="863.5" y="56.0" />
+              <point x="702.6875" y="56.0" />
+              <point x="41.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFObjRef" target="pdfminer.pdftypes.PDFObject">
+              <point x="0.0" y="-15.5" />
+              <point x="1046.125" y="1529.0" />
+              <point x="1108.5" y="1529.0" />
+              <point x="-51.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfdocument.PDFXRefStream" target="pdfminer.pdfdocument.PDFBaseXRef">
+              <point x="0.0" y="-15.5" />
+              <point x="2132.0" y="1448.0" />
+              <point x="2063.5" y="1448.0" />
+              <point x="61.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdfparser.PDFSyntaxError" target="pdfminer.pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="2022.25" y="815.0" />
+              <point x="1745.840909090909" y="815.0" />
+              <point x="20.09090909090901" y="15.5" />
+            </edge>
+            <edge source="pdfminer.ccitt.CCITTG4Parser" target="pdfminer.ccitt.BitParser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTTextGroupTBRL" target="pdfminer.layout.LTTextGroup">
+              <point x="0.0" y="-15.5" />
+              <point x="1139.5" y="461.0" />
+              <point x="1213.25" y="461.0" />
+              <point x="-49.75" y="15.5" />
+            </edge>
+            <edge source="pdfminer.layout.LTAnno" target="pdfminer.layout.LTItem">
+              <point x="-42.25" y="-15.5" />
+              <point x="304.0" y="56.0" />
+              <point x="620.1875" y="56.0" />
+              <point x="-41.25" y="15.5" />
+            </edge>
+            <edge source="pdfminer.cmapdb.CMapError" target="Exception">
+              <point x="0.0" y="-15.5" />
+              <point x="2415.25" y="618.0" />
+              <point x="2219.5833333333335" y="618.0" />
+              <point x="29.333333333333485" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdftypes.PDFException" target="pdfminer.psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="1725.75" y="704.0" />
+              <point x="1919.45" y="704.0" />
+              <point x="-41.799999999999955" y="15.5" />
+            </edge>
+            <edge source="pdfminer.pdffont.PDFSimpleFont" target="pdfminer.pdffont.PDFFont">
+              <point x="0.0" y="-15.5" />
+              <point x="2193.5" y="1048.0" />
+              <point x="2264.25" y="1048.0" />
+              <point x="-45.75" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="819.0" y="242.0" />
+          <SelectedNodes>
+            <node>pdfminer.pdffont.TrueTypeFont</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-795">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

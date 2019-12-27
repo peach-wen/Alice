@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42762ad5-bfff-4ac0-becb-1e4ee8fcbc20" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://Python/#C:/Users/陶雯/Desktop/pdfminer-master/pdfminer">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/陶雯/Desktop/pdfminer-master/pdfminer</OriginalElement>
+              <nodes>
+                <node x="692.9604885057472" y="324.0">layout.LTFigure</node>
+                <node x="1866.828125" y="1392.0">pdfdocument.PDFStandardSecurityHandler</node>
+                <node x="0.0" y="835.0">pdfdocument.PDFNoOutlines</node>
+                <node x="781.0" y="486.0">layout.LTTextLineVertical</node>
+                <node x="485.75" y="324.0">layout.LTTextContainer</node>
+                <node x="1371.0" y="835.0">pdftypes.PDFTypeError</node>
+                <node x="1730.5" y="1154.0">pdffont.PDFType3Font</node>
+                <node x="210.5" y="324.0">layout.LTAnno</node>
+                <node x="642.9999999999999" y="835.0">pdftypes.PDFNotImplementedError</node>
+                <node x="1055.125" y="243.0">layout.LTRect</node>
+                <node x="0.0" y="486.0">layout.LTTextGroupLRTB</node>
+                <node x="1556.0" y="835.0">pdffont.PDFFontError</node>
+                <node x="1225.828125" y="1473.0">psparser.PSLiteral</node>
+                <node x="643.0" y="1787.0">pdffont.FontMetricsDB</node>
+                <node x="382.0" y="486.0">layout.LTTextBoxVertical</node>
+                <node x="1637.5" y="1073.0">pdffont.PDFSimpleFont</node>
+                <node x="386.16666666666663" y="1235.0">converter.PDFPageAggregator</node>
+                <node x="1249.0" y="1787.0">image.ImageWriter</node>
+                <node x="717.25" y="81.0">layout.LTComponent</node>
+                <node x="597.203125" y="1473.0">cmapdb.IdentityCMap</node>
+                <node x="851.0" y="1787.0">pdffont.TrueTypeFont</node>
+                <node x="1436.0" y="1787.0">pdfpage.PDFPage</node>
+                <node x="495.0" y="1073.0">pdfdevice.TagExtractor</node>
+                <node x="1536.5" y="562.0">Exception</node>
+                <node x="1106.5" y="1154.0">pdffont.Type1FontHeaderParser</node>
+                <node x="644.625" y="162.0">layout.LTContainer</node>
+                <node x="973.203125" y="1554.0">pdftypes.PDFStream</node>
+                <node x="191.0" y="486.0">layout.LTTextGroupTBRL</node>
+                <node x="1350.5" y="724.0">psparser.PSEOF</node>
+                <node x="1403.828125" y="1554.0">pdfdocument.PDFXRefFallback</node>
+                <node x="1334.0" y="643.0">psparser.PSException</node>
+                <node x="1427.328125" y="1473.0">pdfdocument.PDFXRef</node>
+                <node x="731.125" y="243.0">layout.LTLayoutContainer</node>
+                <node x="198.16666666666663" y="1235.0">converter.PDFConverter</node>
+                <node x="1823.5" y="1073.0">pdffont.PDFCIDFont</node>
+                <node x="1539.5" y="1235.0">pdffont.PDFTrueTypeFont</node>
+                <node x="1796.0" y="1787.0">image.BMPWriter</node>
+                <node x="992.4999999999999" y="724.0">psparser.PSTypeError</node>
+                <node x="2200.328125" y="1554.0">ccitt.CCITTFaxDecoder</node>
+                <node x="1745.5" y="992.0">pdffont.PDFFont</node>
+                <node x="1525.5" y="916.0">pdffont.PDFUnicodeNotDefined</node>
+                <node x="892.5" y="1154.0">pdfinterp.PDFContentParser</node>
+                <node x="186.0" y="1711.0">psparser.TestPSBaseParser</node>
+                <node x="378.0" y="243.0">layout.LTText</node>
+                <node x="198.0" y="1316.0">converter.XMLConverter</node>
+                <node x="1974.0" y="1787.0">lzw.LZWDecoder</node>
+                <node x="1548.5" y="1154.0">pdffont.PDFType1Font</node>
+                <node x="975.0" y="486.0">layout.LTTextLineHorizontal</node>
+                <node x="0.0" y="1711.0">ccitt.TestCCITTG4Parser</node>
+                <node x="2208.828125" y="1473.0">ccitt.CCITTG4Parser</node>
+                <node x="1053.0" y="1787.0">layout.IndexAssigner</node>
+                <node x="308.0" y="1554.0">cmapdb.PyUnicodeMap</node>
+                <node x="2146.0" y="1787.0">layout.LAParams</node>
+                <node x="703.0" y="1235.0">pdfparser.PDFStreamParser</node>
+                <node x="0.0" y="1787.0">psparser.PSSymbolTable</node>
+                <node x="1057.828125" y="1473.0">psparser.PSKeyword</node>
+                <node x="573.0" y="486.0">layout.LTTextBoxHorizontal</node>
+                <node x="388.0" y="1316.0">converter.TextConverter</node>
+                <node x="804.203125" y="1554.0">pdftypes.PDFObjRef</node>
+                <node x="929.125" y="243.0">layout.LTLine</node>
+                <node x="2066.0" y="1630.0">cmapdb.CMapConverter</node>
+                <node x="413.0" y="1630.0">pdfinterp.PDFResourceManager</node>
+                <node x="1920.0" y="835.0">pdfdocument.PDFDestinationNotFound</node>
+                <node x="427.9999999999999" y="916.0">pdfdocument.PDFNoValidXRef</node>
+                <node x="723.5" y="1154.0">pdfparser.PDFParser</node>
+                <node x="299.0" y="1073.0">pdfdevice.PDFTextDevice</node>
+                <node x="832.9604885057472" y="324.0">layout.LTPage</node>
+                <node x="749.7499999999999" y="916.0">pdfdocument.PDFPasswordIncorrect</node>
+                <node x="1516.078125" y="1392.0">pdfdocument.PDFBaseXRef</node>
+                <node x="1674.5" y="724.0">psparser.PSValueError</node>
+                <node x="1731.0" y="835.0">pdftypes.PDFValueError</node>
+                <node x="418.0" y="1392.0">cmapdb.CMapBase</node>
+                <node x="405.75" y="992.0">pdfdevice.PDFDevice</node>
+                <node x="333.0" y="1863.0">utils.Plane</node>
+                <node x="1846.0" y="1630.0">encodingdb.EncodingDB</node>
+                <node x="503.25" y="405.0">layout.LTTextBox</node>
+                <node x="1617.0" y="1787.0">cmapdb.CMapDB</node>
+                <node x="287.0" y="1154.0">converter.PDFLayoutAnalyzer</node>
+                <node x="109.5" y="405.0">layout.LTTextGroup</node>
+                <node x="1020.5" y="1073.0">psparser.PSStackParser</node>
+                <node x="344.5" y="324.0">layout.LTChar</node>
+                <node x="922.0" y="1630.0">pdfdocument.PDFDocument</node>
+                <node x="1859.328125" y="1473.0">pdfdocument.PDFStandardSecurityHandlerV4</node>
+                <node x="1163.0" y="1630.0">pdfinterp.PDFGraphicState</node>
+                <node x="1859.328125" y="1554.0">pdfdocument.PDFStandardSecurityHandlerV5</node>
+                <node x="2201.0" y="835.0">pdfinterp.PDFResourceError</node>
+                <node x="217.0" y="1787.0">pdfcolor.PDFColorSpace</node>
+                <node x="221.0" y="835.0">pdfinterp.PDFInterpreterError</node>
+                <node x="1610.328125" y="1473.0">pdfdocument.PDFXRefStream</node>
+                <node x="1342.5" y="1154.0">cmapdb.CMapParser</node>
+                <node x="0.0" y="1316.0">converter.HTMLConverter</node>
+                <node x="498.0" y="1554.0">cmapdb.FileUnicodeMap</node>
+                <node x="2225.828125" y="1392.0">ccitt.BitParser</node>
+                <node x="170.0" y="1863.0">arcfour.Arcfour</node>
+                <node x="0.0" y="1554.0">cmapdb.FileCMap</node>
+                <node x="96.703125" y="1473.0">cmapdb.CMap</node>
+                <node x="442.9999999999999" y="835.0">pdfparser.PDFSyntaxError</node>
+                <node x="1621.0" y="1630.0">rijndael.RijndaelEncryptor</node>
+                <node x="904.0" y="405.0">layout.LTTextLine</node>
+                <node x="524.6875" y="0.0">layout.LTItem</node>
+                <node x="889.828125" y="1473.0">pdftypes.PDFObject</node>
+                <node x="987.625" y="162.0">layout.LTCurve</node>
+                <node x="1508.0" y="643.0">cmapdb.CMapError</node>
+                <node x="116.0" y="1630.0">unittest.TestCase</node>
+                <node x="1063.203125" y="1392.0">psparser.PSObject</node>
+                <node x="674.0" y="1630.0">pdfinterp.PDFPageInterpreter</node>
+                <node x="807.75" y="162.0">layout.LTImage</node>
+                <node x="1010.7499999999999" y="916.0">pdfdocument.PDFTextExtractionNotAllowed</node>
+                <node x="1165.5" y="724.0">pdftypes.PDFException</node>
+                <node x="1022.5" y="992.0">psparser.PSBaseParser</node>
+                <node x="898.9999999999999" y="835.0">pdfdocument.PDFEncryptionError</node>
+                <node x="433.0" y="1787.0">pdfinterp.PDFTextState</node>
+                <node x="421.203125" y="1473.0">cmapdb.UnicodeMap</node>
+                <node x="505.0" y="243.0">layout.LTExpandableContainer</node>
+                <node x="1394.0" y="1630.0">rijndael.RijndaelDecryptor</node>
+                <node x="1145.0" y="835.0">pdftypes.PDFObjectNotFound</node>
+                <node x="157.0" y="1554.0">cmapdb.PyCMap</node>
+                <node x="1673.0" y="643.0">lzw.CorruptDataError</node>
+                <node x="1491.5" y="724.0">psparser.PSSyntaxError</node>
+                <node x="0.0" y="1863.0">pdffont.CFFFont</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="layout.LTTextGroupLRTB" target="layout.LTTextGroup">
+                  <point x="0.0" y="-15.5" />
+                  <point x="85.5" y="461.0" />
+                  <point x="145.25" y="461.0" />
+                  <point x="-35.75" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFType1Font" target="pdffont.PDFSimpleFont">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1629.5" y="1129.0" />
+                  <point x="1679.0" y="1129.0" />
+                  <point x="-41.5" y="15.5" />
+                </edge>
+                <edge source="cmapdb.CMapError" target="Exception">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdfparser.PDFStreamParser" target="pdfparser.PDFParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTRect" target="layout.LTCurve">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1109.125" y="218.0" />
+                  <point x="1074.625" y="218.0" />
+                  <point x="29.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTChar" target="layout.LTText">
+                  <point x="27.5" y="-15.5" />
+                  <point x="427.0" y="304.0" />
+                  <point x="431.5" y="304.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFXRefFallback" target="pdfdocument.PDFXRef">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFObjRef" target="pdftypes.PDFObject">
+                  <point x="0.0" y="-15.5" />
+                  <point x="878.703125" y="1529.0" />
+                  <point x="926.828125" y="1529.0" />
+                  <point x="-37.0" y="15.5" />
+                </edge>
+                <edge source="pdfinterp.PDFResourceError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="2297.0" y="775.0" />
+                  <point x="1323.0" y="775.0" />
+                  <point x="75.0" y="15.5" />
+                </edge>
+                <edge source="converter.PDFLayoutAnalyzer" target="pdfdevice.PDFTextDevice">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="converter.XMLConverter" target="converter.PDFConverter">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="lzw.CorruptDataError" target="Exception">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1749.5" y="618.0" />
+                  <point x="1609.833333333333" y="618.0" />
+                  <point x="29.333333333333258" y="15.5" />
+                </edge>
+                <edge source="ccitt.CCITTFaxDecoder" target="ccitt.CCITTG4Parser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTComponent" target="layout.LTItem">
+                  <point x="0.0" y="-15.5" />
+                  <point x="792.75" y="56.0" />
+                  <point x="606.4375" y="56.0" />
+                  <point x="27.25" y="15.5" />
+                </edge>
+                <edge source="converter.TextConverter" target="converter.PDFConverter">
+                  <point x="0.0" y="-15.5" />
+                  <point x="472.0" y="1291.0" />
+                  <point x="338.16666666666663" y="1291.0" />
+                  <point x="56.0" y="15.5" />
+                </edge>
+                <edge source="pdfdevice.PDFTextDevice" target="pdfdevice.PDFDevice">
+                  <point x="0.0" y="-15.5" />
+                  <point x="387.0" y="1048.0" />
+                  <point x="443.75" y="1048.0" />
+                  <point x="-38.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextBoxVertical" target="layout.LTTextBox">
+                  <point x="0.0" y="-15.5" />
+                  <point x="467.5" y="461.0" />
+                  <point x="535.25" y="461.0" />
+                  <point x="-32.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTChar" target="layout.LTComponent">
+                  <point x="-27.5" y="-15.5" />
+                  <point x="372.0" y="294.0" />
+                  <point x="367.5" y="294.0" />
+                  <point x="367.5" y="132.0" />
+                  <point x="736.125" y="132.0" />
+                  <point x="-56.625" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFFontError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1633.5" y="805.0" />
+                  <point x="1278.0" y="805.0" />
+                  <point x="30.0" y="15.5" />
+                </edge>
+                <edge source="converter.HTMLConverter" target="converter.PDFConverter">
+                  <point x="0.0" y="-15.5" />
+                  <point x="89.0" y="1291.0" />
+                  <point x="226.16666666666663" y="1291.0" />
+                  <point x="-56.0" y="15.5" />
+                </edge>
+                <edge source="pdfdevice.TagExtractor" target="pdfdevice.PDFDevice">
+                  <point x="0.0" y="-15.5" />
+                  <point x="576.5" y="1048.0" />
+                  <point x="519.75" y="1048.0" />
+                  <point x="38.0" y="15.5" />
+                </edge>
+                <edge source="pdfparser.PDFSyntaxError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="532.9999999999999" y="795.0" />
+                  <point x="1203.0" y="795.0" />
+                  <point x="-45.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTAnno" target="layout.LTItem">
+                  <point x="-28.5" y="-15.5" />
+                  <point x="239.0" y="56.0" />
+                  <point x="551.9375" y="56.0" />
+                  <point x="-27.25" y="15.5" />
+                </edge>
+                <edge source="cmapdb.IdentityCMap" target="cmapdb.CMapBase">
+                  <point x="0.0" y="-15.5" />
+                  <point x="678.203125" y="1448.0" />
+                  <point x="537.1666666666666" y="1448.0" />
+                  <point x="47.66666666666663" y="15.5" />
+                </edge>
+                <edge source="layout.LTLayoutContainer" target="layout.LTContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="820.125" y="218.0" />
+                  <point x="748.875" y="218.0" />
+                  <point x="34.75" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFXRefStream" target="pdfdocument.PDFBaseXRef">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1712.328125" y="1448.0" />
+                  <point x="1657.828125" y="1448.0" />
+                  <point x="47.25" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextBoxHorizontal" target="layout.LTTextBox">
+                  <point x="0.0" y="-15.5" />
+                  <point x="667.0" y="461.0" />
+                  <point x="599.25" y="461.0" />
+                  <point x="32.0" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFException" target="psparser.PSException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1248.0" y="704.0" />
+                  <point x="1380.1999999999998" y="704.0" />
+                  <point x="-30.799999999999955" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFTrueTypeFont" target="pdffont.PDFType1Font">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFType3Font" target="pdffont.PDFSimpleFont">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1811.5" y="1129.0" />
+                  <point x="1762.0" y="1129.0" />
+                  <point x="41.5" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextGroupTBRL" target="layout.LTTextGroup">
+                  <point x="0.0" y="-15.5" />
+                  <point x="276.5" y="461.0" />
+                  <point x="216.75" y="461.0" />
+                  <point x="35.75" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFStandardSecurityHandlerV5" target="pdfdocument.PDFStandardSecurityHandlerV4">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextGroup" target="layout.LTTextContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="181.0" y="380.0" />
+                  <point x="512.9166666666666" y="380.0" />
+                  <point x="-54.33333333333337" y="15.5" />
+                </edge>
+                <edge source="layout.LTFigure" target="layout.LTLayoutContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="752.9604885057472" y="304.0" />
+                  <point x="775.625" y="304.0" />
+                  <point x="-44.5" y="15.5" />
+                </edge>
+                <edge source="psparser.PSKeyword" target="psparser.PSObject">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFTypeError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1453.5" y="815.0" />
+                  <point x="1263.0" y="815.0" />
+                  <point x="15.0" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFNoOutlines" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="100.5" y="775.0" />
+                  <point x="1173.0" y="775.0" />
+                  <point x="-75.0" y="15.5" />
+                </edge>
+                <edge source="cmapdb.PyCMap" target="cmapdb.CMap">
+                  <point x="0.0" y="-15.5" />
+                  <point x="222.5" y="1529.0" />
+                  <point x="184.453125" y="1529.0" />
+                  <point x="29.25" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextBox" target="layout.LTTextContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTAnno" target="layout.LTText">
+                  <point x="28.5" y="-15.5" />
+                  <point x="296.0" y="304.0" />
+                  <point x="395.83333333333337" y="304.0" />
+                  <point x="-35.666666666666686" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFStandardSecurityHandlerV4" target="pdfdocument.PDFStandardSecurityHandler">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTExpandableContainer" target="layout.LTContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="608.0" y="218.0" />
+                  <point x="679.375" y="218.0" />
+                  <point x="-34.75" y="15.5" />
+                </edge>
+                <edge source="psparser.TestPSBaseParser" target="unittest.TestCase">
+                  <point x="0.0" y="-15.5" />
+                  <point x="277.0" y="1686.0" />
+                  <point x="212.0" y="1686.0" />
+                  <point x="32.0" y="15.5" />
+                </edge>
+                <edge source="pdfinterp.PDFInterpreterError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="322.0" y="785.0" />
+                  <point x="1188.0" y="785.0" />
+                  <point x="-60.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSLiteral" target="psparser.PSObject">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1292.328125" y="1448.0" />
+                  <point x="1176.5364583333333" y="1448.0" />
+                  <point x="45.33333333333326" y="15.5" />
+                </edge>
+                <edge source="cmapdb.FileUnicodeMap" target="cmapdb.UnicodeMap">
+                  <point x="0.0" y="-15.5" />
+                  <point x="586.0" y="1529.0" />
+                  <point x="538.203125" y="1529.0" />
+                  <point x="39.0" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFNotImplementedError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="760.9999999999999" y="805.0" />
+                  <point x="1218.0" y="805.0" />
+                  <point x="-30.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTCurve" target="layout.LTComponent">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1045.625" y="132.0" />
+                  <point x="849.375" y="132.0" />
+                  <point x="56.625" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextContainer" target="layout.LTExpandableContainer">
+                  <point x="40.75" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSStackParser" target="psparser.PSBaseParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="cmapdb.CMapParser" target="psparser.PSStackParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1418.5" y="1124.0" />
+                  <point x="1163.125" y="1124.0" />
+                  <point x="61.125" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFXRef" target="pdfdocument.PDFBaseXRef">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1508.828125" y="1448.0" />
+                  <point x="1563.328125" y="1448.0" />
+                  <point x="-47.25" y="15.5" />
+                </edge>
+                <edge source="cmapdb.UnicodeMap" target="cmapdb.CMapBase">
+                  <point x="0.0" y="-15.5" />
+                  <point x="499.203125" y="1448.0" />
+                  <point x="489.5" y="1448.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSTypeError" target="psparser.PSException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1069.0" y="694.0" />
+                  <point x="1349.4" y="694.0" />
+                  <point x="-61.59999999999991" y="15.5" />
+                </edge>
+                <edge source="layout.LTLine" target="layout.LTCurve">
+                  <point x="0.0" y="-15.5" />
+                  <point x="982.125" y="218.0" />
+                  <point x="1016.625" y="218.0" />
+                  <point x="-29.0" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFUnicodeNotDefined" target="pdffont.PDFFontError">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="cmapdb.FileCMap" target="cmapdb.CMap">
+                  <point x="0.0" y="-15.5" />
+                  <point x="68.5" y="1529.0" />
+                  <point x="125.953125" y="1529.0" />
+                  <point x="-29.25" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFStream" target="pdftypes.PDFObject">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1047.703125" y="1529.0" />
+                  <point x="1000.828125" y="1529.0" />
+                  <point x="37.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSException" target="Exception">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1411.0" y="618.0" />
+                  <point x="1551.1666666666665" y="618.0" />
+                  <point x="-29.333333333333258" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFValueError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1815.5" y="795.0" />
+                  <point x="1293.0" y="795.0" />
+                  <point x="45.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextContainer" target="layout.LTText">
+                  <point x="-40.75" y="-15.5" />
+                  <point x="526.5" y="304.0" />
+                  <point x="467.16666666666663" y="304.0" />
+                  <point x="35.66666666666663" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFEncryptionError" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1011.9999999999999" y="815.0" />
+                  <point x="1233.0" y="815.0" />
+                  <point x="-15.0" y="15.5" />
+                </edge>
+                <edge source="pdffont.Type1FontHeaderParser" target="psparser.PSStackParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1214.5" y="1134.0" />
+                  <point x="1122.375" y="1134.0" />
+                  <point x="20.375" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFPasswordIncorrect" target="pdfdocument.PDFEncryptionError">
+                  <point x="0.0" y="-15.5" />
+                  <point x="870.2499999999999" y="891.0" />
+                  <point x="955.4999999999999" y="891.0" />
+                  <point x="-56.5" y="15.5" />
+                </edge>
+                <edge source="cmapdb.CMap" target="cmapdb.CMapBase">
+                  <point x="0.0" y="-15.5" />
+                  <point x="155.203125" y="1448.0" />
+                  <point x="441.8333333333333" y="1448.0" />
+                  <point x="-47.666666666666686" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFNoValidXRef" target="pdfparser.PDFSyntaxError">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSSyntaxError" target="psparser.PSException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1573.0" y="704.0" />
+                  <point x="1441.7999999999997" y="704.0" />
+                  <point x="30.799999999999955" y="15.5" />
+                </edge>
+                <edge source="converter.PDFConverter" target="converter.PDFLayoutAnalyzer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="282.16666666666663" y="1210.0" />
+                  <point x="337.0" y="1210.0" />
+                  <point x="-50.0" y="15.5" />
+                </edge>
+                <edge source="ccitt.CCITTG4Parser" target="ccitt.BitParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdfinterp.PDFContentParser" target="psparser.PSStackParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="989.5" y="1134.0" />
+                  <point x="1081.625" y="1134.0" />
+                  <point x="-20.375" y="15.5" />
+                </edge>
+                <edge source="layout.LTPage" target="layout.LTLayoutContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="888.9604885057472" y="304.0" />
+                  <point x="864.625" y="304.0" />
+                  <point x="44.5" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFSimpleFont" target="pdffont.PDFFont">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1720.5" y="1048.0" />
+                  <point x="1777.25" y="1048.0" />
+                  <point x="-31.75" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFDestinationNotFound" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="2050.5" y="785.0" />
+                  <point x="1308.0" y="785.0" />
+                  <point x="60.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSValueError" target="psparser.PSException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1753.5" y="694.0" />
+                  <point x="1472.6" y="694.0" />
+                  <point x="61.59999999999991" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextLineVertical" target="layout.LTTextLine">
+                  <point x="0.0" y="-15.5" />
+                  <point x="868.0" y="461.0" />
+                  <point x="936.5" y="461.0" />
+                  <point x="-32.5" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextLine" target="layout.LTTextContainer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="969.0" y="380.0" />
+                  <point x="621.5833333333334" y="380.0" />
+                  <point x="54.33333333333337" y="15.5" />
+                </edge>
+                <edge source="ccitt.TestCCITTG4Parser" target="unittest.TestCase">
+                  <point x="0.0" y="-15.5" />
+                  <point x="83.0" y="1686.0" />
+                  <point x="148.0" y="1686.0" />
+                  <point x="-32.0" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFObject" target="psparser.PSObject">
+                  <point x="0.0" y="-15.5" />
+                  <point x="963.828125" y="1448.0" />
+                  <point x="1085.8697916666665" y="1448.0" />
+                  <point x="-45.33333333333337" y="15.5" />
+                </edge>
+                <edge source="pdftypes.PDFObjectNotFound" target="pdftypes.PDFException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="layout.LTImage" target="layout.LTComponent">
+                  <point x="0.0" y="-15.5" />
+                  <point x="867.25" y="142.0" />
+                  <point x="811.625" y="142.0" />
+                  <point x="18.875" y="15.5" />
+                </edge>
+                <edge source="layout.LTContainer" target="layout.LTComponent">
+                  <point x="0.0" y="-15.5" />
+                  <point x="714.125" y="142.0" />
+                  <point x="773.875" y="142.0" />
+                  <point x="-18.875" y="15.5" />
+                </edge>
+                <edge source="pdfparser.PDFParser" target="psparser.PSStackParser">
+                  <point x="0.0" y="-15.5" />
+                  <point x="798.0" y="1124.0" />
+                  <point x="1040.875" y="1124.0" />
+                  <point x="-61.125" y="15.5" />
+                </edge>
+                <edge source="layout.LTTextLineHorizontal" target="layout.LTTextLine">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1070.0" y="461.0" />
+                  <point x="1001.5" y="461.0" />
+                  <point x="32.5" y="15.5" />
+                </edge>
+                <edge source="cmapdb.PyUnicodeMap" target="cmapdb.UnicodeMap">
+                  <point x="0.0" y="-15.5" />
+                  <point x="393.0" y="1529.0" />
+                  <point x="460.203125" y="1529.0" />
+                  <point x="-39.0" y="15.5" />
+                </edge>
+                <edge source="converter.PDFPageAggregator" target="converter.PDFLayoutAnalyzer">
+                  <point x="0.0" y="-15.5" />
+                  <point x="490.16666666666663" y="1210.0" />
+                  <point x="437.0" y="1210.0" />
+                  <point x="50.0" y="15.5" />
+                </edge>
+                <edge source="psparser.PSEOF" target="psparser.PSException">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="pdffont.PDFCIDFont" target="pdffont.PDFFont">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1897.5" y="1048.0" />
+                  <point x="1840.75" y="1048.0" />
+                  <point x="31.75" y="15.5" />
+                </edge>
+                <edge source="pdfdocument.PDFTextExtractionNotAllowed" target="pdfdocument.PDFEncryptionError">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1153.75" y="891.0" />
+                  <point x="1068.5" y="891.0" />
+                  <point x="56.5" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.20000000000000015" x="1286.4653207392034" y="86.49999999999909" />
+              <SelectedNodes>
+                <node>layout.LTExpandableContainer</node>
+              </SelectedNodes>
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-54" />
+    <option name="y" value="237" />
+    <option name="width" value="1890" />
+    <option name="height" value="663" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pdfminer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdfminer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests in pdfminer" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pdfminer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in pdfminer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42762ad5-bfff-4ac0-becb-1e4ee8fcbc20" name="默认的" comment="" />
+      <created>1576984736336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576984736336</updated>
+      <workItem from="1576984737986" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="运行" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="调试" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/陶雯/Desktop/pdfminer-master/pdfminer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="464.0" y="242.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/陶雯/Desktop/pdfminer-master/pdfminer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/陶雯/Desktop/pdfminer-master/pdfminer</OriginalElement>
+          <nodes>
+            <node x="692.9604885057472" y="324.0">layout.LTFigure</node>
+            <node x="1866.828125" y="1392.0">pdfdocument.PDFStandardSecurityHandler</node>
+            <node x="0.0" y="835.0">pdfdocument.PDFNoOutlines</node>
+            <node x="781.0" y="486.0">layout.LTTextLineVertical</node>
+            <node x="485.75" y="324.0">layout.LTTextContainer</node>
+            <node x="1371.0" y="835.0">pdftypes.PDFTypeError</node>
+            <node x="1730.5" y="1154.0">pdffont.PDFType3Font</node>
+            <node x="210.5" y="324.0">layout.LTAnno</node>
+            <node x="642.9999999999999" y="835.0">pdftypes.PDFNotImplementedError</node>
+            <node x="1055.125" y="243.0">layout.LTRect</node>
+            <node x="0.0" y="486.0">layout.LTTextGroupLRTB</node>
+            <node x="1556.0" y="835.0">pdffont.PDFFontError</node>
+            <node x="1225.828125" y="1473.0">psparser.PSLiteral</node>
+            <node x="643.0" y="1787.0">pdffont.FontMetricsDB</node>
+            <node x="382.0" y="486.0">layout.LTTextBoxVertical</node>
+            <node x="1637.5" y="1073.0">pdffont.PDFSimpleFont</node>
+            <node x="386.16666666666663" y="1235.0">converter.PDFPageAggregator</node>
+            <node x="1249.0" y="1787.0">image.ImageWriter</node>
+            <node x="717.25" y="81.0">layout.LTComponent</node>
+            <node x="597.203125" y="1473.0">cmapdb.IdentityCMap</node>
+            <node x="851.0" y="1787.0">pdffont.TrueTypeFont</node>
+            <node x="1436.0" y="1787.0">pdfpage.PDFPage</node>
+            <node x="495.0" y="1073.0">pdfdevice.TagExtractor</node>
+            <node x="1536.5" y="562.0">Exception</node>
+            <node x="1106.5" y="1154.0">pdffont.Type1FontHeaderParser</node>
+            <node x="644.625" y="162.0">layout.LTContainer</node>
+            <node x="973.203125" y="1554.0">pdftypes.PDFStream</node>
+            <node x="191.0" y="486.0">layout.LTTextGroupTBRL</node>
+            <node x="1350.5" y="724.0">psparser.PSEOF</node>
+            <node x="1403.828125" y="1554.0">pdfdocument.PDFXRefFallback</node>
+            <node x="1334.0" y="643.0">psparser.PSException</node>
+            <node x="1427.328125" y="1473.0">pdfdocument.PDFXRef</node>
+            <node x="731.125" y="243.0">layout.LTLayoutContainer</node>
+            <node x="198.16666666666663" y="1235.0">converter.PDFConverter</node>
+            <node x="1823.5" y="1073.0">pdffont.PDFCIDFont</node>
+            <node x="1539.5" y="1235.0">pdffont.PDFTrueTypeFont</node>
+            <node x="1796.0" y="1787.0">image.BMPWriter</node>
+            <node x="992.4999999999999" y="724.0">psparser.PSTypeError</node>
+            <node x="2200.328125" y="1554.0">ccitt.CCITTFaxDecoder</node>
+            <node x="1745.5" y="992.0">pdffont.PDFFont</node>
+            <node x="1525.5" y="916.0">pdffont.PDFUnicodeNotDefined</node>
+            <node x="892.5" y="1154.0">pdfinterp.PDFContentParser</node>
+            <node x="186.0" y="1711.0">psparser.TestPSBaseParser</node>
+            <node x="378.0" y="243.0">layout.LTText</node>
+            <node x="198.0" y="1316.0">converter.XMLConverter</node>
+            <node x="1974.0" y="1787.0">lzw.LZWDecoder</node>
+            <node x="1548.5" y="1154.0">pdffont.PDFType1Font</node>
+            <node x="975.0" y="486.0">layout.LTTextLineHorizontal</node>
+            <node x="0.0" y="1711.0">ccitt.TestCCITTG4Parser</node>
+            <node x="2208.828125" y="1473.0">ccitt.CCITTG4Parser</node>
+            <node x="1053.0" y="1787.0">layout.IndexAssigner</node>
+            <node x="308.0" y="1554.0">cmapdb.PyUnicodeMap</node>
+            <node x="2146.0" y="1787.0">layout.LAParams</node>
+            <node x="703.0" y="1235.0">pdfparser.PDFStreamParser</node>
+            <node x="0.0" y="1787.0">psparser.PSSymbolTable</node>
+            <node x="1057.828125" y="1473.0">psparser.PSKeyword</node>
+            <node x="573.0" y="486.0">layout.LTTextBoxHorizontal</node>
+            <node x="388.0" y="1316.0">converter.TextConverter</node>
+            <node x="804.203125" y="1554.0">pdftypes.PDFObjRef</node>
+            <node x="929.125" y="243.0">layout.LTLine</node>
+            <node x="2066.0" y="1630.0">cmapdb.CMapConverter</node>
+            <node x="413.0" y="1630.0">pdfinterp.PDFResourceManager</node>
+            <node x="1920.0" y="835.0">pdfdocument.PDFDestinationNotFound</node>
+            <node x="427.9999999999999" y="916.0">pdfdocument.PDFNoValidXRef</node>
+            <node x="723.5" y="1154.0">pdfparser.PDFParser</node>
+            <node x="299.0" y="1073.0">pdfdevice.PDFTextDevice</node>
+            <node x="832.9604885057472" y="324.0">layout.LTPage</node>
+            <node x="749.7499999999999" y="916.0">pdfdocument.PDFPasswordIncorrect</node>
+            <node x="1516.078125" y="1392.0">pdfdocument.PDFBaseXRef</node>
+            <node x="1674.5" y="724.0">psparser.PSValueError</node>
+            <node x="1731.0" y="835.0">pdftypes.PDFValueError</node>
+            <node x="418.0" y="1392.0">cmapdb.CMapBase</node>
+            <node x="405.75" y="992.0">pdfdevice.PDFDevice</node>
+            <node x="333.0" y="1863.0">utils.Plane</node>
+            <node x="1846.0" y="1630.0">encodingdb.EncodingDB</node>
+            <node x="503.25" y="405.0">layout.LTTextBox</node>
+            <node x="1617.0" y="1787.0">cmapdb.CMapDB</node>
+            <node x="287.0" y="1154.0">converter.PDFLayoutAnalyzer</node>
+            <node x="109.5" y="405.0">layout.LTTextGroup</node>
+            <node x="1020.5" y="1073.0">psparser.PSStackParser</node>
+            <node x="344.5" y="324.0">layout.LTChar</node>
+            <node x="922.0" y="1630.0">pdfdocument.PDFDocument</node>
+            <node x="1859.328125" y="1473.0">pdfdocument.PDFStandardSecurityHandlerV4</node>
+            <node x="1163.0" y="1630.0">pdfinterp.PDFGraphicState</node>
+            <node x="1859.328125" y="1554.0">pdfdocument.PDFStandardSecurityHandlerV5</node>
+            <node x="2201.0" y="835.0">pdfinterp.PDFResourceError</node>
+            <node x="217.0" y="1787.0">pdfcolor.PDFColorSpace</node>
+            <node x="221.0" y="835.0">pdfinterp.PDFInterpreterError</node>
+            <node x="1610.328125" y="1473.0">pdfdocument.PDFXRefStream</node>
+            <node x="1342.5" y="1154.0">cmapdb.CMapParser</node>
+            <node x="0.0" y="1316.0">converter.HTMLConverter</node>
+            <node x="498.0" y="1554.0">cmapdb.FileUnicodeMap</node>
+            <node x="2225.828125" y="1392.0">ccitt.BitParser</node>
+            <node x="170.0" y="1863.0">arcfour.Arcfour</node>
+            <node x="0.0" y="1554.0">cmapdb.FileCMap</node>
+            <node x="96.703125" y="1473.0">cmapdb.CMap</node>
+            <node x="442.9999999999999" y="835.0">pdfparser.PDFSyntaxError</node>
+            <node x="1621.0" y="1630.0">rijndael.RijndaelEncryptor</node>
+            <node x="904.0" y="405.0">layout.LTTextLine</node>
+            <node x="524.6875" y="0.0">layout.LTItem</node>
+            <node x="889.828125" y="1473.0">pdftypes.PDFObject</node>
+            <node x="987.625" y="162.0">layout.LTCurve</node>
+            <node x="1508.0" y="643.0">cmapdb.CMapError</node>
+            <node x="116.0" y="1630.0">unittest.TestCase</node>
+            <node x="1063.203125" y="1392.0">psparser.PSObject</node>
+            <node x="674.0" y="1630.0">pdfinterp.PDFPageInterpreter</node>
+            <node x="807.75" y="162.0">layout.LTImage</node>
+            <node x="1010.7499999999999" y="916.0">pdfdocument.PDFTextExtractionNotAllowed</node>
+            <node x="1165.5" y="724.0">pdftypes.PDFException</node>
+            <node x="1022.5" y="992.0">psparser.PSBaseParser</node>
+            <node x="898.9999999999999" y="835.0">pdfdocument.PDFEncryptionError</node>
+            <node x="433.0" y="1787.0">pdfinterp.PDFTextState</node>
+            <node x="421.203125" y="1473.0">cmapdb.UnicodeMap</node>
+            <node x="505.0" y="243.0">layout.LTExpandableContainer</node>
+            <node x="1394.0" y="1630.0">rijndael.RijndaelDecryptor</node>
+            <node x="1145.0" y="835.0">pdftypes.PDFObjectNotFound</node>
+            <node x="157.0" y="1554.0">cmapdb.PyCMap</node>
+            <node x="1673.0" y="643.0">lzw.CorruptDataError</node>
+            <node x="1491.5" y="724.0">psparser.PSSyntaxError</node>
+            <node x="0.0" y="1863.0">pdffont.CFFFont</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="layout.LTTextGroupLRTB" target="layout.LTTextGroup">
+              <point x="0.0" y="-15.5" />
+              <point x="85.5" y="461.0" />
+              <point x="145.25" y="461.0" />
+              <point x="-35.75" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFType1Font" target="pdffont.PDFSimpleFont">
+              <point x="0.0" y="-15.5" />
+              <point x="1629.5" y="1129.0" />
+              <point x="1679.0" y="1129.0" />
+              <point x="-41.5" y="15.5" />
+            </edge>
+            <edge source="cmapdb.CMapError" target="Exception">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfparser.PDFStreamParser" target="pdfparser.PDFParser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTRect" target="layout.LTCurve">
+              <point x="0.0" y="-15.5" />
+              <point x="1109.125" y="218.0" />
+              <point x="1074.625" y="218.0" />
+              <point x="29.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTChar" target="layout.LTText">
+              <point x="27.5" y="-15.5" />
+              <point x="427.0" y="304.0" />
+              <point x="431.5" y="304.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFXRefFallback" target="pdfdocument.PDFXRef">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFObjRef" target="pdftypes.PDFObject">
+              <point x="0.0" y="-15.5" />
+              <point x="878.703125" y="1529.0" />
+              <point x="926.828125" y="1529.0" />
+              <point x="-37.0" y="15.5" />
+            </edge>
+            <edge source="pdfinterp.PDFResourceError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="2297.0" y="775.0" />
+              <point x="1323.0" y="775.0" />
+              <point x="75.0" y="15.5" />
+            </edge>
+            <edge source="converter.PDFLayoutAnalyzer" target="pdfdevice.PDFTextDevice">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="converter.XMLConverter" target="converter.PDFConverter">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="lzw.CorruptDataError" target="Exception">
+              <point x="0.0" y="-15.5" />
+              <point x="1749.5" y="618.0" />
+              <point x="1609.833333333333" y="618.0" />
+              <point x="29.333333333333258" y="15.5" />
+            </edge>
+            <edge source="ccitt.CCITTFaxDecoder" target="ccitt.CCITTG4Parser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTComponent" target="layout.LTItem">
+              <point x="0.0" y="-15.5" />
+              <point x="792.75" y="56.0" />
+              <point x="606.4375" y="56.0" />
+              <point x="27.25" y="15.5" />
+            </edge>
+            <edge source="converter.TextConverter" target="converter.PDFConverter">
+              <point x="0.0" y="-15.5" />
+              <point x="472.0" y="1291.0" />
+              <point x="338.16666666666663" y="1291.0" />
+              <point x="56.0" y="15.5" />
+            </edge>
+            <edge source="pdfdevice.PDFTextDevice" target="pdfdevice.PDFDevice">
+              <point x="0.0" y="-15.5" />
+              <point x="387.0" y="1048.0" />
+              <point x="443.75" y="1048.0" />
+              <point x="-38.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextBoxVertical" target="layout.LTTextBox">
+              <point x="0.0" y="-15.5" />
+              <point x="467.5" y="461.0" />
+              <point x="535.25" y="461.0" />
+              <point x="-32.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTChar" target="layout.LTComponent">
+              <point x="-27.5" y="-15.5" />
+              <point x="372.0" y="294.0" />
+              <point x="367.5" y="294.0" />
+              <point x="367.5" y="132.0" />
+              <point x="736.125" y="132.0" />
+              <point x="-56.625" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFFontError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="1633.5" y="805.0" />
+              <point x="1278.0" y="805.0" />
+              <point x="30.0" y="15.5" />
+            </edge>
+            <edge source="converter.HTMLConverter" target="converter.PDFConverter">
+              <point x="0.0" y="-15.5" />
+              <point x="89.0" y="1291.0" />
+              <point x="226.16666666666663" y="1291.0" />
+              <point x="-56.0" y="15.5" />
+            </edge>
+            <edge source="pdfdevice.TagExtractor" target="pdfdevice.PDFDevice">
+              <point x="0.0" y="-15.5" />
+              <point x="576.5" y="1048.0" />
+              <point x="519.75" y="1048.0" />
+              <point x="38.0" y="15.5" />
+            </edge>
+            <edge source="pdfparser.PDFSyntaxError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="532.9999999999999" y="795.0" />
+              <point x="1203.0" y="795.0" />
+              <point x="-45.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTAnno" target="layout.LTItem">
+              <point x="-28.5" y="-15.5" />
+              <point x="239.0" y="56.0" />
+              <point x="551.9375" y="56.0" />
+              <point x="-27.25" y="15.5" />
+            </edge>
+            <edge source="cmapdb.IdentityCMap" target="cmapdb.CMapBase">
+              <point x="0.0" y="-15.5" />
+              <point x="678.203125" y="1448.0" />
+              <point x="537.1666666666666" y="1448.0" />
+              <point x="47.66666666666663" y="15.5" />
+            </edge>
+            <edge source="layout.LTLayoutContainer" target="layout.LTContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="820.125" y="218.0" />
+              <point x="748.875" y="218.0" />
+              <point x="34.75" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFXRefStream" target="pdfdocument.PDFBaseXRef">
+              <point x="0.0" y="-15.5" />
+              <point x="1712.328125" y="1448.0" />
+              <point x="1657.828125" y="1448.0" />
+              <point x="47.25" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextBoxHorizontal" target="layout.LTTextBox">
+              <point x="0.0" y="-15.5" />
+              <point x="667.0" y="461.0" />
+              <point x="599.25" y="461.0" />
+              <point x="32.0" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFException" target="psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="1248.0" y="704.0" />
+              <point x="1380.1999999999998" y="704.0" />
+              <point x="-30.799999999999955" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFTrueTypeFont" target="pdffont.PDFType1Font">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFType3Font" target="pdffont.PDFSimpleFont">
+              <point x="0.0" y="-15.5" />
+              <point x="1811.5" y="1129.0" />
+              <point x="1762.0" y="1129.0" />
+              <point x="41.5" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextGroupTBRL" target="layout.LTTextGroup">
+              <point x="0.0" y="-15.5" />
+              <point x="276.5" y="461.0" />
+              <point x="216.75" y="461.0" />
+              <point x="35.75" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFStandardSecurityHandlerV5" target="pdfdocument.PDFStandardSecurityHandlerV4">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextGroup" target="layout.LTTextContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="181.0" y="380.0" />
+              <point x="512.9166666666666" y="380.0" />
+              <point x="-54.33333333333337" y="15.5" />
+            </edge>
+            <edge source="layout.LTFigure" target="layout.LTLayoutContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="752.9604885057472" y="304.0" />
+              <point x="775.625" y="304.0" />
+              <point x="-44.5" y="15.5" />
+            </edge>
+            <edge source="psparser.PSKeyword" target="psparser.PSObject">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFTypeError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="1453.5" y="815.0" />
+              <point x="1263.0" y="815.0" />
+              <point x="15.0" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFNoOutlines" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="100.5" y="775.0" />
+              <point x="1173.0" y="775.0" />
+              <point x="-75.0" y="15.5" />
+            </edge>
+            <edge source="cmapdb.PyCMap" target="cmapdb.CMap">
+              <point x="0.0" y="-15.5" />
+              <point x="222.5" y="1529.0" />
+              <point x="184.453125" y="1529.0" />
+              <point x="29.25" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextBox" target="layout.LTTextContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTAnno" target="layout.LTText">
+              <point x="28.5" y="-15.5" />
+              <point x="296.0" y="304.0" />
+              <point x="395.83333333333337" y="304.0" />
+              <point x="-35.666666666666686" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFStandardSecurityHandlerV4" target="pdfdocument.PDFStandardSecurityHandler">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTExpandableContainer" target="layout.LTContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="608.0" y="218.0" />
+              <point x="679.375" y="218.0" />
+              <point x="-34.75" y="15.5" />
+            </edge>
+            <edge source="psparser.TestPSBaseParser" target="unittest.TestCase">
+              <point x="0.0" y="-15.5" />
+              <point x="277.0" y="1686.0" />
+              <point x="212.0" y="1686.0" />
+              <point x="32.0" y="15.5" />
+            </edge>
+            <edge source="pdfinterp.PDFInterpreterError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="322.0" y="785.0" />
+              <point x="1188.0" y="785.0" />
+              <point x="-60.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSLiteral" target="psparser.PSObject">
+              <point x="0.0" y="-15.5" />
+              <point x="1292.328125" y="1448.0" />
+              <point x="1176.5364583333333" y="1448.0" />
+              <point x="45.33333333333326" y="15.5" />
+            </edge>
+            <edge source="cmapdb.FileUnicodeMap" target="cmapdb.UnicodeMap">
+              <point x="0.0" y="-15.5" />
+              <point x="586.0" y="1529.0" />
+              <point x="538.203125" y="1529.0" />
+              <point x="39.0" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFNotImplementedError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="760.9999999999999" y="805.0" />
+              <point x="1218.0" y="805.0" />
+              <point x="-30.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTCurve" target="layout.LTComponent">
+              <point x="0.0" y="-15.5" />
+              <point x="1045.625" y="132.0" />
+              <point x="849.375" y="132.0" />
+              <point x="56.625" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextContainer" target="layout.LTExpandableContainer">
+              <point x="40.75" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSStackParser" target="psparser.PSBaseParser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="cmapdb.CMapParser" target="psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="1418.5" y="1124.0" />
+              <point x="1163.125" y="1124.0" />
+              <point x="61.125" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFXRef" target="pdfdocument.PDFBaseXRef">
+              <point x="0.0" y="-15.5" />
+              <point x="1508.828125" y="1448.0" />
+              <point x="1563.328125" y="1448.0" />
+              <point x="-47.25" y="15.5" />
+            </edge>
+            <edge source="cmapdb.UnicodeMap" target="cmapdb.CMapBase">
+              <point x="0.0" y="-15.5" />
+              <point x="499.203125" y="1448.0" />
+              <point x="489.5" y="1448.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSTypeError" target="psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="1069.0" y="694.0" />
+              <point x="1349.4" y="694.0" />
+              <point x="-61.59999999999991" y="15.5" />
+            </edge>
+            <edge source="layout.LTLine" target="layout.LTCurve">
+              <point x="0.0" y="-15.5" />
+              <point x="982.125" y="218.0" />
+              <point x="1016.625" y="218.0" />
+              <point x="-29.0" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFUnicodeNotDefined" target="pdffont.PDFFontError">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="cmapdb.FileCMap" target="cmapdb.CMap">
+              <point x="0.0" y="-15.5" />
+              <point x="68.5" y="1529.0" />
+              <point x="125.953125" y="1529.0" />
+              <point x="-29.25" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFStream" target="pdftypes.PDFObject">
+              <point x="0.0" y="-15.5" />
+              <point x="1047.703125" y="1529.0" />
+              <point x="1000.828125" y="1529.0" />
+              <point x="37.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSException" target="Exception">
+              <point x="0.0" y="-15.5" />
+              <point x="1411.0" y="618.0" />
+              <point x="1551.1666666666665" y="618.0" />
+              <point x="-29.333333333333258" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFValueError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="1815.5" y="795.0" />
+              <point x="1293.0" y="795.0" />
+              <point x="45.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextContainer" target="layout.LTText">
+              <point x="-40.75" y="-15.5" />
+              <point x="526.5" y="304.0" />
+              <point x="467.16666666666663" y="304.0" />
+              <point x="35.66666666666663" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFEncryptionError" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="1011.9999999999999" y="815.0" />
+              <point x="1233.0" y="815.0" />
+              <point x="-15.0" y="15.5" />
+            </edge>
+            <edge source="pdffont.Type1FontHeaderParser" target="psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="1214.5" y="1134.0" />
+              <point x="1122.375" y="1134.0" />
+              <point x="20.375" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFPasswordIncorrect" target="pdfdocument.PDFEncryptionError">
+              <point x="0.0" y="-15.5" />
+              <point x="870.2499999999999" y="891.0" />
+              <point x="955.4999999999999" y="891.0" />
+              <point x="-56.5" y="15.5" />
+            </edge>
+            <edge source="cmapdb.CMap" target="cmapdb.CMapBase">
+              <point x="0.0" y="-15.5" />
+              <point x="155.203125" y="1448.0" />
+              <point x="441.8333333333333" y="1448.0" />
+              <point x="-47.666666666666686" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFNoValidXRef" target="pdfparser.PDFSyntaxError">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSSyntaxError" target="psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="1573.0" y="704.0" />
+              <point x="1441.7999999999997" y="704.0" />
+              <point x="30.799999999999955" y="15.5" />
+            </edge>
+            <edge source="converter.PDFConverter" target="converter.PDFLayoutAnalyzer">
+              <point x="0.0" y="-15.5" />
+              <point x="282.16666666666663" y="1210.0" />
+              <point x="337.0" y="1210.0" />
+              <point x="-50.0" y="15.5" />
+            </edge>
+            <edge source="ccitt.CCITTG4Parser" target="ccitt.BitParser">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdfinterp.PDFContentParser" target="psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="989.5" y="1134.0" />
+              <point x="1081.625" y="1134.0" />
+              <point x="-20.375" y="15.5" />
+            </edge>
+            <edge source="layout.LTPage" target="layout.LTLayoutContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="888.9604885057472" y="304.0" />
+              <point x="864.625" y="304.0" />
+              <point x="44.5" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFSimpleFont" target="pdffont.PDFFont">
+              <point x="0.0" y="-15.5" />
+              <point x="1720.5" y="1048.0" />
+              <point x="1777.25" y="1048.0" />
+              <point x="-31.75" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFDestinationNotFound" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="2050.5" y="785.0" />
+              <point x="1308.0" y="785.0" />
+              <point x="60.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSValueError" target="psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="1753.5" y="694.0" />
+              <point x="1472.6" y="694.0" />
+              <point x="61.59999999999991" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextLineVertical" target="layout.LTTextLine">
+              <point x="0.0" y="-15.5" />
+              <point x="868.0" y="461.0" />
+              <point x="936.5" y="461.0" />
+              <point x="-32.5" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextLine" target="layout.LTTextContainer">
+              <point x="0.0" y="-15.5" />
+              <point x="969.0" y="380.0" />
+              <point x="621.5833333333334" y="380.0" />
+              <point x="54.33333333333337" y="15.5" />
+            </edge>
+            <edge source="ccitt.TestCCITTG4Parser" target="unittest.TestCase">
+              <point x="0.0" y="-15.5" />
+              <point x="83.0" y="1686.0" />
+              <point x="148.0" y="1686.0" />
+              <point x="-32.0" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFObject" target="psparser.PSObject">
+              <point x="0.0" y="-15.5" />
+              <point x="963.828125" y="1448.0" />
+              <point x="1085.8697916666665" y="1448.0" />
+              <point x="-45.33333333333337" y="15.5" />
+            </edge>
+            <edge source="pdftypes.PDFObjectNotFound" target="pdftypes.PDFException">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="layout.LTImage" target="layout.LTComponent">
+              <point x="0.0" y="-15.5" />
+              <point x="867.25" y="142.0" />
+              <point x="811.625" y="142.0" />
+              <point x="18.875" y="15.5" />
+            </edge>
+            <edge source="layout.LTContainer" target="layout.LTComponent">
+              <point x="0.0" y="-15.5" />
+              <point x="714.125" y="142.0" />
+              <point x="773.875" y="142.0" />
+              <point x="-18.875" y="15.5" />
+            </edge>
+            <edge source="pdfparser.PDFParser" target="psparser.PSStackParser">
+              <point x="0.0" y="-15.5" />
+              <point x="798.0" y="1124.0" />
+              <point x="1040.875" y="1124.0" />
+              <point x="-61.125" y="15.5" />
+            </edge>
+            <edge source="layout.LTTextLineHorizontal" target="layout.LTTextLine">
+              <point x="0.0" y="-15.5" />
+              <point x="1070.0" y="461.0" />
+              <point x="1001.5" y="461.0" />
+              <point x="32.5" y="15.5" />
+            </edge>
+            <edge source="cmapdb.PyUnicodeMap" target="cmapdb.UnicodeMap">
+              <point x="0.0" y="-15.5" />
+              <point x="393.0" y="1529.0" />
+              <point x="460.203125" y="1529.0" />
+              <point x="-39.0" y="15.5" />
+            </edge>
+            <edge source="converter.PDFPageAggregator" target="converter.PDFLayoutAnalyzer">
+              <point x="0.0" y="-15.5" />
+              <point x="490.16666666666663" y="1210.0" />
+              <point x="437.0" y="1210.0" />
+              <point x="50.0" y="15.5" />
+            </edge>
+            <edge source="psparser.PSEOF" target="psparser.PSException">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="pdffont.PDFCIDFont" target="pdffont.PDFFont">
+              <point x="0.0" y="-15.5" />
+              <point x="1897.5" y="1048.0" />
+              <point x="1840.75" y="1048.0" />
+              <point x="31.75" y="15.5" />
+            </edge>
+            <edge source="pdfdocument.PDFTextExtractionNotAllowed" target="pdfdocument.PDFEncryptionError">
+              <point x="0.0" y="-15.5" />
+              <point x="1153.75" y="891.0" />
+              <point x="1068.5" y="891.0" />
+              <point x="56.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.20000000000000015" x="1286.4653207392034" y="86.49999999999909" />
+          <SelectedNodes>
+            <node>layout.LTExpandableContainer</node>
+          </SelectedNodes>
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
